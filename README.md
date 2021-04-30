@@ -28,7 +28,7 @@ OWNER_ID = Your ID (Owner) Get From Any Bot.
 GEN_LIMIT_PERDAY = Limit Of account to be generated Per day , Current limit is 2 (Perday)
 ```
 
-# Deploy
+# Deploy To Heroku
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # Licence
