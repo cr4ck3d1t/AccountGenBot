@@ -17,15 +17,15 @@
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
-    "BOT_TOKEN": {
-      "description": "Your Bot Token.",
+    "BOT_TOKEN": {OTEzODc1NDM0NDM1OTMyMTYw.YaE20g.6THNwaRK326_x74tlKx8MUQJmgs
+      "description": ".",
       "value": ""
     },
-    "API_ID": {
+    "API_ID": {1655943948
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "OWNER_ID": {
+    "OWNER_ID": {860154023218774036
       "description": "Bot Owner ID",
       "value": ""
     },
