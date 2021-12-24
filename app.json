@@ -17,21 +17,21 @@
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
-    "BOT_TOKEN": {OTEzODc1NDM0NDM1OTMyMTYw.YaE20g.6THNwaRK326_x74tlKx8MUQJmgs
+    "BOT_TOKEN": {
       "description": ".",
-      "value": ""
+      "value": "OTEzODc1NDM0NDM1OTMyMTYw.YaE20g.6THNwaRK326_x74tlKx8MUQJmgs"
     },
-    "API_ID": {1655943948
+    "API_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "17174303"
     },
-    "OWNER_ID": {860154023218774036
+    "OWNER_ID": {
       "description": "Bot Owner ID",
-      "value": ""
+      "value": "901072486"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "fd9b926e018ae98e7aa56d6f9ebc3fab"
     }
   },
   "buildpacks": [
